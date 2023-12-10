@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377751980182",
+    "project_id": "fir-fcm-d8938",
+    "storage_bucket": "fir-fcm-d8938.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377751980182:android:3a3796cf08f52c87c15ab7",
+        "android_client_info": {
+          "package_name": "com.onurerdem.firebasefcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377751980182-c53plautu98nh6s2m40967r8irl7rm55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWQzsxUR2fX42h92at2K8ybIGyyDecS40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377751980182-c53plautu98nh6s2m40967r8irl7rm55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
